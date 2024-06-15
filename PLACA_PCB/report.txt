@@ -1,0 +1,141 @@
+Info: Procesando el símbolo 'BT1:Battery:BatteryHolder_Keystone_1042_1x18650'.
+Info: Procesando el símbolo 'R1:Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal'.
+Info: Procesando el símbolo 'D1:LED_THT:LED_D3.0mm_Clear'.
+Info: Procesando el símbolo 'D2:LED_THT:LED_D3.0mm_Clear'.
+Info: Procesando el símbolo 'D3:LED_THT:LED_D3.0mm_Clear'.
+Info: Procesando el símbolo 'R2:Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal'.
+Info: Procesando el símbolo 'R3:Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal'.
+Info: Procesando el símbolo 'R4:Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal'.
+Info: Procesando el símbolo 'R5:Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal'.
+Info: Procesando el símbolo 'SW1:Button_Switch_SMD:SW_SPST_REED_CT05-XXXX-G1'.
+Info: Procesando el símbolo 'U1:Package_DIP:DIP-8_W7.62mm'.
+Se actualizó el nombre de la hoja BT1 a 'Raíz'.
+Se actualizó el archivo de hoja BT1 a 'PLACA_PCB.kicad_sch'.
+Agregar red Net-(BT1--).
+BT1 pin 2 conectado a Net-(BT1--).
+Agregar red Net-(BT1-+).
+BT1 pin 1 conectado a Net-(BT1-+).
+Agregado D1 (huella 'LED_THT:LED_D3.0mm_Clear').
+Indicador de referencia cambiado de REF** a D1.
+Valor D1 cambiado de LED_D3.0mm_Clear a LED.
+Asociación de símbolos D1 actualizada de  a /bd34dabe-3404-447f-8c25-edc27e06dd43.
+Actualizar campos D1.
+Se actualizó el nombre de la hoja D1 a 'Raíz'.
+Se actualizó el archivo de hoja D1 a 'PLACA_PCB.kicad_sch'.
+Se actualizaron los filtros de huella de D1 a 'LED* LED_SMD:* LED_THT:*'.
+Agregar red Net-(D1-K).
+D1 pin 1 conectado a Net-(D1-K).
+Agregar red Net-(D1-A).
+D1 pin 2 conectado a Net-(D1-A).
+Agregado D2 (huella 'LED_THT:LED_D3.0mm_Clear').
+Indicador de referencia cambiado de REF** a D2.
+Valor D2 cambiado de LED_D3.0mm_Clear a LED.
+Asociación de símbolos D2 actualizada de  a /d380575f-ca7b-4321-be47-a4b01154ccee.
+Actualizar campos D2.
+Se actualizó el nombre de la hoja D2 a 'Raíz'.
+Se actualizó el archivo de hoja D2 a 'PLACA_PCB.kicad_sch'.
+Se actualizaron los filtros de huella de D2 a 'LED* LED_SMD:* LED_THT:*'.
+Agregar red Net-(D2-A).
+D2 pin 2 conectado a Net-(D2-A).
+Agregar red Net-(D2-K).
+D2 pin 1 conectado a Net-(D2-K).
+Agregado D3 (huella 'LED_THT:LED_D3.0mm_Clear').
+Indicador de referencia cambiado de REF** a D3.
+Valor D3 cambiado de LED_D3.0mm_Clear a LED.
+Asociación de símbolos D3 actualizada de  a /c2f7f666-ac0f-4f64-a957-31987b80ab00.
+Actualizar campos D3.
+Se actualizó el nombre de la hoja D3 a 'Raíz'.
+Se actualizó el archivo de hoja D3 a 'PLACA_PCB.kicad_sch'.
+Se actualizaron los filtros de huella de D3 a 'LED* LED_SMD:* LED_THT:*'.
+Agregar red Net-(D3-A).
+D3 pin 2 conectado a Net-(D3-A).
+D3 pin 1 conectado a Net-(BT1-+).
+Agregado R1 (huella 'Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal').
+Indicador de referencia cambiado de REF** a R1.
+Valor R1 cambiado de R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal a 220.
+Asociación de símbolos R1 actualizada de  a /63c26d1a-4d95-4b42-8f8a-54b230ee8207.
+Actualizar campos R1.
+Se actualizó el nombre de la hoja R1 a 'Raíz'.
+Se actualizó el archivo de hoja R1 a 'PLACA_PCB.kicad_sch'.
+Se actualizaron los filtros de huella de R1 a 'R_*'.
+R1 pin 2 conectado a Net-(BT1--).
+R1 pin 1 conectado a Net-(D1-A).
+Agregado R2 (huella 'Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal').
+Indicador de referencia cambiado de REF** a R2.
+Valor R2 cambiado de R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal a 220.
+Asociación de símbolos R2 actualizada de  a /02bf842b-1276-42b2-a77d-7c7f4669710b.
+Actualizar campos R2.
+Se actualizó el nombre de la hoja R2 a 'Raíz'.
+Se actualizó el archivo de hoja R2 a 'PLACA_PCB.kicad_sch'.
+Se actualizaron los filtros de huella de R2 a 'R_*'.
+R2 pin 2 conectado a Net-(BT1--).
+R2 pin 1 conectado a Net-(D2-A).
+Agregado BT1 (huella 'Battery:BatteryHolder_Keystone_1042_1x18650').
+Agregado R3 (huella 'Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal').
+Indicador de referencia cambiado de REF** a R3.
+Valor R3 cambiado de R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal a 10000.
+Asociación de símbolos R3 actualizada de  a /3dc9bffd-1e90-4ef9-8867-da665fcad2ba.
+Actualizar campos R3.
+Se actualizó el nombre de la hoja R3 a 'Raíz'.
+Se actualizó el archivo de hoja R3 a 'PLACA_PCB.kicad_sch'.
+Se actualizaron los filtros de huella de R3 a 'R_*'.
+Agregar red Net-(SW1A-A).
+R3 pin 1 conectado a Net-(SW1A-A).
+R3 pin 2 conectado a Net-(BT1--).
+Indicador de referencia cambiado de REF** a BT1.
+Agregado R4 (huella 'Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal').
+Indicador de referencia cambiado de REF** a R4.
+Valor R4 cambiado de R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal a 10000.
+Asociación de símbolos R4 actualizada de  a /331622b1-748d-43de-b9f0-064f9b53c7d2.
+Actualizar campos R4.
+Se actualizó el nombre de la hoja R4 a 'Raíz'.
+Se actualizó el archivo de hoja R4 a 'PLACA_PCB.kicad_sch'.
+Se actualizaron los filtros de huella de R4 a 'R_*'.
+Agregar red Net-(SW1B-A).
+R4 pin 1 conectado a Net-(SW1B-A).
+R4 pin 2 conectado a Net-(BT1--).
+Valor BT1 cambiado de BatteryHolder_Keystone_1042_1x18650 a 6.
+Agregado R5 (huella 'Resistor_THT:R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal').
+Indicador de referencia cambiado de REF** a R5.
+Valor R5 cambiado de R_Axial_DIN0617_L17.0mm_D6.0mm_P30.48mm_Horizontal a R.
+Asociación de símbolos R5 actualizada de  a /2df504cb-0d73-4afa-bbc1-78f8fdab52e9.
+Actualizar campos R5.
+Se actualizó el nombre de la hoja R5 a 'Raíz'.
+Se actualizó el archivo de hoja R5 a 'PLACA_PCB.kicad_sch'.
+Se actualizaron los filtros de huella de R5 a 'R_*'.
+R5 pin 2 conectado a Net-(BT1--).
+R5 pin 1 conectado a Net-(D3-A).
+Asociación de símbolos BT1 actualizada de  a /477514a3-891e-4c7a-af66-ac9691b75b21.
+Agregado SW1 (huella 'Button_Switch_SMD:SW_SPST_REED_CT05-XXXX-G1').
+Indicador de referencia cambiado de REF** a SW1.
+Valor SW1 cambiado de SW_SPST_REED_CT05-XXXX-G1 a SW_DPST_x2.
+Asociación de símbolos SW1 actualizada de  a /c23ddc3a-49fe-4252-b900-dcba90dc91a7.
+Actualizar campos SW1.
+Se actualizó el nombre de la hoja SW1 a 'Raíz'.
+Se actualizó el archivo de hoja SW1 a 'PLACA_PCB.kicad_sch'.
+SW1 pin 1 conectado a Net-(SW1A-A).
+SW1 pin 2 conectado a Net-(BT1-+).
+Actualizar campos BT1.
+Agregado U1 (huella 'Package_DIP:DIP-8_W7.62mm').
+Indicador de referencia cambiado de REF** a U1.
+Valor U1 cambiado de DIP-8_W7.62mm a ATtiny85-20P.
+Asociación de símbolos U1 actualizada de  a /5cf0fd3b-b722-4290-a229-5c1384c05d01.
+Actualizar campos U1.
+Se actualizó el nombre de la hoja U1 a 'Raíz'.
+Se actualizó el archivo de hoja U1 a 'PLACA_PCB.kicad_sch'.
+Se actualizaron los filtros de huella de U1 a 'DIP*W7.62mm*'.
+U1 pin 2 conectado a Net-(D1-K).
+Agregar red unconnected-(U1-AREF/PB0-Pad5).
+U1 pin 5 conectado a unconnected-(U1-AREF/PB0-Pad5).
+U1 pin 6 conectado a Net-(SW1B-A).
+U1 pin 8 conectado a Net-(BT1-+).
+U1 pin 7 conectado a Net-(SW1A-A).
+Agregar red unconnected-(U1-~{RESET}/PB5-Pad1).
+U1 pin 1 conectado a unconnected-(U1-~{RESET}/PB5-Pad1).
+U1 pin 3 conectado a Net-(D2-K).
+U1 pin 4 conectado a Net-(BT1--).
+Error: No se ha encontrado SW1 pad 4 en Button_Switch_SMD:SW_SPST_REED_CT05-XXXX-G1.
+Error: No se ha encontrado SW1 pad 3 en Button_Switch_SMD:SW_SPST_REED_CT05-XXXX-G1.
+
+
+Info: Número de avisos: 0, errores: 2.
